@@ -1,3 +1,8 @@
+#Overview
+
+This Project completely a Frontend(Angular 15) Project Using External API get Weather information, Default city is Noida.
+You can explore other cities weather information as well by entering the city name like New Delhi, Mumbai, Etc..
+
 # WeatherApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
